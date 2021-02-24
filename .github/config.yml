@@ -1,2 +1,2 @@
-PR_TITLE_REGEX: /.*/
+PR_TITLE_REGEX: /^#\d* - .*/
 COMMIT_MESSAGE_REGEX: /.*/
